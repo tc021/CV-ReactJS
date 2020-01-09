@@ -1,0 +1,9 @@
+.footer-style{
+    background-color: green;
+    font-size: small;
+    padding-top: 1%;
+    margin-top: 1%;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
