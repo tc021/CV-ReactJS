@@ -48,7 +48,7 @@ return(
                 </Carousel.Item>
             </Carousel>
         </div>
-        <div>
+        <div className="test">
             <FooterPage />
         </div>
     </div>

@@ -2,6 +2,7 @@
     padding:70px;
     margin-left: 100px;
     margin-right: 100px;
+    margin-bottom: initial;
 }
 .carousel-style p{
     color: #ff0000;
@@ -17,4 +18,8 @@
 }
 .body{
     background-color: darkgray;
+}
+.test{
+    position: absolute;
+    width: 100%;
 }
